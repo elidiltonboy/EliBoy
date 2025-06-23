@@ -43,8 +43,8 @@ Tenho paixão por desenvolvimento de software, especialmente na área de **front
 
 ## 📫 Contato
 
-- **Email:** elidiltonboy@gmail.com
-- **LinkedIn:** [linkedin.com/in/elidiltonboy](https://www.linkedin.com/in/elidiltonboy)
+- **Email:** elidiltonboy25@gmail.com
+- **LinkedIn:** [linkedin.com/in/eliboy](https://www.linkedin.com/in/elidiltonboy)
 - **GitHub:** [github.com/elidiltonboy](https://github.com/elidiltonboy)
 
 ---
