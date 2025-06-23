@@ -33,15 +33,15 @@ Tenho paixão por desenvolvimento de software, em front end, análise de dados e
   _[Repositório](#)_
 
 
-- **Aplicativo Front-end com React**  
+- ***Aplicativo Front-end com React**  
   Aplicação web interativa utilizando React.js.  
   _[Repositório](#)_
 
-  - **Análise de Dados com Python**  
+  - ***Análise de Dados com Python**  
   Projeto de análise exploratória de dados públicos usando Python, Pandas e Matplotlib.  
   _[Repositório](#)_
 
-*(Substitua os links "#" pelos links reais dos seus projetos.)*
+
 
 
 ---
@@ -55,8 +55,6 @@ Tenho paixão por desenvolvimento de software, em front end, análise de dados e
 ---
 
 ### Obrigado por visitar meu perfil! 🚀
-
-
 
 
 
