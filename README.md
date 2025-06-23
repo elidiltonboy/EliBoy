@@ -2,27 +2,29 @@
 
 Olá! Sou **Elidilton Boy**, estudante de **Engenharia de Software**, formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Ciência de Dados e Inteligência Artificial**.
 
-Tenho paixão por desenvolvimento de software, em front end, análise de dados e soluções baseadas em inteligência artificial. Estou sempre em busca de novos aprendizados e desafios tecnológicos.
+Tenho paixão por desenvolvimento de software, especialmente na área de **front-end** e soluções baseadas em tecnologia da informação. Estou sempre em busca de novos aprendizados e desafios tecnológicos.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- 🎓 **Engenharia de Software** – Cursando
-- 🎓 **Gestão de Tecnologia da Informação** – Concluído
-- 🎓 **Pós-graduação em Ciência de Dados e Inteligência Artificial** – Concluído
+- 🎓 **Engenharia de Software** – Cursando  
+- 🎓 **Gestão de Tecnologia da Informação** – Concluído  
+- 🎓 **Pós-graduação em Ciência de Dados e Inteligência Artificial** – Concluído  
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **HTML / CSS / JavaScript , React
-- **Python
-- **SQL / MySQL / PostgreSQL
-- **Git / GitHub
-- **Power BI / Tableau
-- **Machine Learning (Scikit-learn, Pandas, Numpy)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -32,47 +34,38 @@ Tenho paixão por desenvolvimento de software, em front end, análise de dados e
   Projeto de site institucional com foco em design responsivo.  
   _[Repositório](#)_
 
+- **Sistema de Cadastro de Usuários (Java)**  
+  Aplicação desktop para gerenciamento de usuários.  
+  _[Repositório](#)_
 
-- ***Aplicativo Front-end com React**  
+- **Aplicativo Front-end com React**  
   Aplicação web interativa utilizando React.js.  
   _[Repositório](#)_
 
-- ***Análise de Dados com Python**  
-  Projeto de análise exploratória de dados públicos usando Python, Pandas e Matplotlib.  
-  _[Repositório](#)_
+*(Substitua os links "#" pelos links reais dos seus projetos.)*
 
+---
 
+## 📊 Estatísticas GitHub
 
+<div align="center">
+
+![Elidilton Boy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elidiltonboy&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elidiltonboy&theme=tokyonight&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elidiltonboy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-- **Email:** elidiltonboy25@gmail.com
-- **LinkedIn:** [linkedin.com/in/eliboy](https://www.linkedin.com/in/elidiltonboy)
-- **GitHub:** [github.com/elidiltonboy](https://github.com/elidiltonboy)
+- **Email:** elidiltonboy25@gmail.com  
+- **LinkedIn:** [linkedin.com/in/eliboy](https://www.linkedin.com/in/elidiltonboy)  
+- **GitHub:** [github.com/elidiltonboy](https://github.com/elidiltonboy)  
 
 ---
 
 ### Obrigado por visitar meu perfil! 🚀
-
-
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:elidiltonboy25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eliboy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
