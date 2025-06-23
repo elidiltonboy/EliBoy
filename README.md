@@ -14,22 +14,30 @@ Tenho paixão por desenvolvimento de software, especialmente na área de **front
 
 ---
 
-
-
-
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
+<!-- Front-end -->
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" />
+
+<!-- Versionamento -->
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
 
-</div>
+<!-- Ciência de Dados -->
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="40" />
+<img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
+<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" />
 
+</div>
 
 ---
 
@@ -55,13 +63,6 @@ Projeto para apresentar meus trabalhos, estudos e projetos acadêmicos. Desenvol
 Primeira experiência prática com Ciência de Dados, onde explorei um dataset público, fiz limpeza de dados e criei alguns gráficos básicos para visualizar as informações.
 
 **Tecnologias:** Python, Pandas, Matplotlib, Seaborn
-
----
-
-### 🤖 Classificador de Texto
-Projeto simples de aprendizado de máquina para classificar textos por categorias, usando algoritmos básicos de machine learning.
-
-**Tecnologias:** Python, Scikit-learn, NLTK
 
 ---
 
