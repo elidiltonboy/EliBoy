@@ -37,7 +37,7 @@ Tenho paixão por desenvolvimento de software, em front end, análise de dados e
   Aplicação web interativa utilizando React.js.  
   _[Repositório](#)_
 
-  - ***Análise de Dados com Python**  
+- ***Análise de Dados com Python**  
   Projeto de análise exploratória de dados públicos usando Python, Pandas e Matplotlib.  
   _[Repositório](#)_
 
