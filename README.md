@@ -36,21 +36,35 @@ Tenho paixão por desenvolvimento de software, especialmente na área de **front
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚩 Projetos em Destaque
 
-- **Website Responsivo com HTML, CSS e JavaScript**  
-  Projeto de site institucional com foco em design responsivo.  
-  _[Repositório](#)_
+Sou estudante de Engenharia de Software e entusiasta de tecnologia. Gosto de aprender novas linguagens, explorar diferentes áreas da TI e colocar em prática o que estudo na faculdade e por conta própria.
 
-- **Sistema de Cadastro de Usuários (Java)**  
-  Aplicação desktop para gerenciamento de usuários.  
-  _[Repositório](#)_
+### 🌐 Landing Page Responsiva
+Criação de uma página web simples e responsiva, focada em HTML, CSS e JavaScript. Projeto feito para praticar conceitos básicos de Front-end.
 
-- **Aplicativo Front-end com React**  
-  Aplicação web interativa utilizando React.js.  
-  _[Repositório](#)_
+**Tecnologias:** HTML, CSS, JavaScript
 
-*(Substitua os links "#" pelos links reais dos seus projetos.)*
+---
+
+### 🎨 Portfólio Pessoal
+Projeto para apresentar meus trabalhos, estudos e projetos acadêmicos. Desenvolvido com React, explorando componentes e rotas.
+
+**Tecnologias:** React.js, CSS
+
+---
+
+### 📊 Análise de Dados com Python
+Primeira experiência prática com Ciência de Dados, onde explorei um dataset público, fiz limpeza de dados e criei alguns gráficos básicos para visualizar as informações.
+
+**Tecnologias:** Python, Pandas, Matplotlib, Seaborn
+
+---
+
+### 🤖 Classificador de Texto
+Projeto simples de aprendizado de máquina para classificar textos por categorias, usando algoritmos básicos de machine learning.
+
+**Tecnologias:** Python, Scikit-learn, NLTK
 
 ---
 
@@ -77,3 +91,4 @@ Tenho paixão por desenvolvimento de software, especialmente na área de **front
 ---
 
 ### Obrigado por visitar meu perfil! 🚀
+
