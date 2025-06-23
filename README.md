@@ -1,8 +1,8 @@
-## # 👨‍💻 Elidilton Boy
+# 👨‍💻 Elidilton Boy
 
 Olá! Sou **Elidilton Boy**, estudante de **Engenharia de Software**, formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Ciência de Dados e Inteligência Artificial**.
 
-Tenho paixão por desenvolvimento de software, especialmente na área de **front-end** e soluções baseadas em tecnologia da informação. Estou sempre em busca de novos aprendizados e desafios tecnológicos.
+Tenho paixão por desenvolvimento de software, análise de dados e soluções baseadas em inteligência artificial. Estou sempre em busca de novos aprendizados e desafios tecnológicos.
 
 ---
 
@@ -16,25 +16,27 @@ Tenho paixão por desenvolvimento de software, especialmente na área de **front
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Java, C#, Node.js
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Controle de Versão:** Git, GitHub
+- Java / C# / Python
+- HTML / CSS / JavaScript
+- SQL / MySQL / PostgreSQL
+- Git / GitHub
+- Power BI / Tableau
+- Machine Learning (Scikit-learn, Pandas, Numpy)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-- **Website Responsivo com HTML, CSS e JavaScript**  
-  Projeto de site institucional com foco em design responsivo.  
+- **Análise de Dados com Python**  
+  Projeto de análise exploratória de dados públicos usando Python, Pandas e Matplotlib.  
   _[Repositório](#)_
 
 - **Sistema de Cadastro de Usuários (Java)**  
-  Aplicação desktop para gerenciamento de usuários.  
+  Aplicação desktop simples para gerenciamento de usuários.  
   _[Repositório](#)_
 
-- **Aplicativo Front-end com React**  
-  Aplicação web interativa utilizando React.js.  
+- **Dashboard de Vendas com Power BI**  
+  Dashboard interativo para análise de vendas.  
   _[Repositório](#)_
 
 *(Substitua os links "#" pelos links reais dos seus projetos.)*
@@ -50,6 +52,7 @@ Tenho paixão por desenvolvimento de software, especialmente na área de **front
 ---
 
 ### Obrigado por visitar meu perfil! 🚀
+
 
 
 
