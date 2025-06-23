@@ -16,8 +16,8 @@ Tenho paixão por desenvolvimento de software, em front end, análise de dados e
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Python
 - HTML / CSS / JavaScript , React
+- - Python
 - SQL / MySQL / PostgreSQL
 - Git / GitHub
 - Power BI / Tableau
