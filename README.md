@@ -1,4 +1,56 @@
-## Olá eu sou Elidilton Boy, Graduando em Engenharia de Software, Formado em Gestão de tecnologia da Informação e Pós Graduado em Ciência de Dados e Inteligência Artificial!
+## # 👨‍💻 Elidilton Boy
+
+Olá! Sou **Elidilton Boy**, estudante de **Engenharia de Software**, formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Ciência de Dados e Inteligência Artificial**.
+
+Tenho paixão por desenvolvimento de software, especialmente na área de **front-end** e soluções baseadas em tecnologia da informação. Estou sempre em busca de novos aprendizados e desafios tecnológicos.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🎓 **Engenharia de Software** – Cursando
+- 🎓 **Gestão de Tecnologia da Informação** – Concluído
+- 🎓 **Pós-graduação em Ciência de Dados e Inteligência Artificial** – Concluído
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Java, C#, Node.js
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Controle de Versão:** Git, GitHub
+
+---
+
+## 📌 Projetos em Destaque
+
+- **Website Responsivo com HTML, CSS e JavaScript**  
+  Projeto de site institucional com foco em design responsivo.  
+  _[Repositório](#)_
+
+- **Sistema de Cadastro de Usuários (Java)**  
+  Aplicação desktop para gerenciamento de usuários.  
+  _[Repositório](#)_
+
+- **Aplicativo Front-end com React**  
+  Aplicação web interativa utilizando React.js.  
+  _[Repositório](#)_
+
+*(Substitua os links "#" pelos links reais dos seus projetos.)*
+
+---
+
+## 📫 Contato
+
+- **Email:** elidiltonboy@gmail.com
+- **LinkedIn:** [linkedin.com/in/elidiltonboy](https://www.linkedin.com/in/elidiltonboy)
+- **GitHub:** [github.com/elidiltonboy](https://github.com/elidiltonboy)
+
+---
+
+### Obrigado por visitar meu perfil! 🚀
+
 
 
 
