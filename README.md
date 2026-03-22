@@ -2,7 +2,7 @@
 
 Olá! Sou **Elidilton Boy**, estudante de **Engenharia de Software**, formado em **Gestão de Tecnologia da Informação** e pós-graduado em **Ciência de Dados e Inteligência Artificial**.
 
-Tenho paixão por desenvolvimento de software, especialmente na área de **front-end** e soluções baseadas em tecnologia da informação. Estou sempre em busca de novos aprendizados e desafios tecnológicos.
+Analista de Dados | SQL • Python • Power BI | Business Intelligence | Transformando dados em insights para decisões estratégicas
 
 ---
 
